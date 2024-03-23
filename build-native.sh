@@ -1,0 +1,1 @@
+native-image -jar build/libs/DB5-1.0-SNAPSHOT.jar
